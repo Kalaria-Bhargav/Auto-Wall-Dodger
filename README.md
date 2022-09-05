@@ -44,7 +44,7 @@ Any contributions you make are **Highly appreciated**.
 <p align="center">
 
  <a href="https://github.com/othneildrew/Best-README-Template">
-    <kbd><img src="readme.PNG" alt="Logo" width="80" height="80" /></kbd>
+    <kbd><img src="readme.PNG" alt="Logo" width="400" height="400" /></kbd>
 
   </a>
  </p>
